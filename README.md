@@ -35,7 +35,5 @@ I design, develop, and bring ideas to life with modern web technologies and clea
 ---
 
 ⭐ **Check out my repositories below** to see my projects and learning journey!
-### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Lishba-Nadeem/Lishba-Nadeem/blob/output/github-contribution-grid-snake.svg)
 
